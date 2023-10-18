@@ -1,54 +1,5 @@
-{"file_name": "images/0000_slash_front.png", "text": "sprite animation showing a green haired man slashing, composed of 8 frames, front view"}
-{"file_name": "images/0000_slash_left.png", "text": "sprite animation showing a green haired man slashing, composed of 8 frames, left-sided view"}
-{"file_name": "images/0000_slash_right.png", "text": "sprite animation showing a green haired man slashing, composed of 8 frames, right sided view"}
-{"file_name": "images/0000_spellcard_front.png", "text": "sprite animation showing a green haired man casting a spell, composed of 8 frames, front view"}
-{"file_name": "images/0000_spellcard_left.png", "text": "sprite animation showing a green haired man casting a spell, composed of 8 frames, left-sided view"}
-{"file_name": "images/0000_spellcard_right.png", "text": "sprite animation showing a green haired man casting a spell, composed of 8 frames, right sided view"}
-{"file_name": "images/0000_walk_front.png", "text": "sprite animation showing a green haired man walking, composed of 8 frames, front view"}
-{"file_name": "images/0000_walk_left.png", "text": "sprite animation showing a green haired man walking, composed of 8 frames, left-sided view"}
-{"file_name": "images/0000_walk_right.png", "text": "sprite animation showing a green haired man walking, composed of 8 frames, right sided view"}
-{"file_name": "images/0001_slash_front.png", "text": "sprite animation showing a violet haired man slashing, composed of 8 frames, front view"}
-{"file_name": "images/0001_slash_left.png", "text": "sprite animation showing a violet haired man slashing, composed of 8 frames, left-sided view"}
-{"file_name": "images/0001_slash_right.png", "text": "sprite animation showing a violet haired man slashing, composed of 8 frames, right sided view"}
-{"file_name": "images/0001_spellcard_front.png", "text": "sprite animation showing a violet haired man casting a spell, composed of 8 frames, front view"}
-{"file_name": "images/0001_spellcard_left.png", "text": "sprite animation showing a violet haired man casting a spell, composed of 8 frames, left-sided view"}
-{"file_name": "images/0001_spellcard_right.png", "text": "sprite animation showing a violet haired man casting a spell, composed of 8 frames, right sided view"}
-{"file_name": "images/0001_walk_front.png", "text": "sprite animation showing a violet haired man walking, composed of 8 frames, front view"}
-{"file_name": "images/0001_walk_left.png", "text": "sprite animation showing a violet haired man walking, composed of 8 frames, left-sided view"}
-{"file_name": "images/0001_walk_right.png", "text": "sprite animation showing a violet haired man walking, composed of 8 frames, right sided view"}
-{"file_name": "images/0002_slash_front.png", "text": "sprite animation showing a orange haired man slashing, composed of 8 frames, front view"}
-{"file_name": "images/0002_slash_left.png", "text": "sprite animation showing a orange haired man slashing, composed of 8 frames, left-sided view"}
-{"file_name": "images/0002_slash_right.png", "text": "sprite animation showing a orange haired man slashing, composed of 8 frames, right sided view"}
-{"file_name": "images/0002_spellcard_front.png", "text": "sprite animation showing a orange haired man casting a spell, composed of 8 frames, front view"}
-{"file_name": "images/0002_spellcard_left.png", "text": "sprite animation showing a orange haired man casting a spell, composed of 8 frames, left-sided view"}
-{"file_name": "images/0002_spellcard_right.png", "text": "sprite animation showing a orange haired man casting a spell, composed of 8 frames, right sided view"}
-{"file_name": "images/0002_walk_front.png", "text": "sprite animation showing a orange haired man walking, composed of 8 frames, front view"}
-{"file_name": "images/0002_walk_left.png", "text": "sprite animation showing a orange haired man walking, composed of 8 frames, left-sided view"}
-{"file_name": "images/0002_walk_right.png", "text": "sprite animation showing a orange haired man walking, composed of 8 frames, right sided view"}
-{"file_name": "images/0003_slash_front.png", "text": "sprite animation showing a gray haired man slashing, composed of 8 frames, front view"}
-{"file_name": "images/0003_slash_left.png", "text": "sprite animation showing a gray haired man slashing, composed of 8 frames, left-sided view"}
-{"file_name": "images/0003_slash_right.png", "text": "sprite animation showing a gray haired man slashing, composed of 8 frames, right sided view"}
-{"file_name": "images/0003_spellcard_front.png", "text": "sprite animation showing a gray haired man casting a spell, composed of 8 frames, front view"}
-{"file_name": "images/0003_spellcard_left.png", "text": "sprite animation showing a gray haired man casting a spell, composed of 8 frames, left-sided view"}
-{"file_name": "images/0003_spellcard_right.png", "text": "sprite animation showing a gray haired man casting a spell, composed of 8 frames, right sided view"}
-{"file_name": "images/0003_walk_front.png", "text": "sprite animation showing a gray haired man walking, composed of 8 frames, front view"}
-{"file_name": "images/0003_walk_left.png", "text": "sprite animation showing a gray haired man walking, composed of 8 frames, left-sided view"}
-{"file_name": "images/0003_walk_right.png", "text": "sprite animation showing a gray haired man walking, composed of 8 frames, right sided view"}
-{"file_name": "images/0004_slash_front.png", "text": "sprite animation showing a red haired man slashing, composed of 8 frames, front view"}
-{"file_name": "images/0004_slash_left.png", "text": "sprite animation showing a red haired man slashing, composed of 8 frames, left-sided view"}
-{"file_name": "images/0004_slash_right.png", "text": "sprite animation showing a red haired man slashing, composed of 8 frames, right sided view"}
-{"file_name": "images/0004_spellcard_front.png", "text": "sprite animation showing a red haired man casting a spell, composed of 8 frames, front view"}
-{"file_name": "images/0004_spellcard_left.png", "text": "sprite animation showing a red haired man casting a spell, composed of 8 frames, left-sided view"}
-{"file_name": "images/0004_spellcard_right.png", "text": "sprite animation showing a red haired man casting a spell, composed of 8 frames, right sided view"}
-{"file_name": "images/0004_walk_front.png", "text": "sprite animation showing a red haired man walking, composed of 8 frames, front view"}
-{"file_name": "images/0004_walk_left.png", "text": "sprite animation showing a red haired man walking, composed of 8 frames, left-sided view"}
-{"file_name": "images/0004_walk_right.png", "text": "sprite animation showing a red haired man walking, composed of 8 frames, right sided view"}
-{"file_name": "images/0005_slash_front.png", "text": "sprite animation showing a pink haired man slashing, composed of 8 frames, front view"}
-{"file_name": "images/0005_slash_left.png", "text": "sprite animation showing a pink haired man slashing, composed of 8 frames, left-sided view"}
-{"file_name": "images/0005_slash_right.png", "text": "sprite animation showing a pink haired man slashing, composed of 8 frames, right sided view"}
-{"file_name": "images/0005_spellcard_front.png", "text": "sprite animation showing a pink haired man casting a spell, composed of 8 frames, front view"}
-{"file_name": "images/0005_spellcard_left.png", "text": "sprite animation showing a pink haired man casting a spell, composed of 8 frames, left-sided view"}
-{"file_name": "images/0005_spellcard_right.png", "text": "sprite animation showing a pink haired man casting a spell, composed of 8 frames, right sided view"}
-{"file_name": "images/0005_walk_front.png", "text": "sprite animation showing a pink haired man walking, composed of 8 frames, front view"}
-{"file_name": "images/0005_walk_left.png", "text": "sprite animation showing a pink haired man walking, composed of 8 frames, left-sided view"}
-{"file_name": "images/0005_walk_right.png", "text": "sprite animation showing a pink haired man walking, composed of 8 frames, right sided view"}
+{"file_name": "images/0.png", "text": "Sprite animation showing a man with skin of reddish-orange color that is dancing, composed of 8 slightly different frames, each frame has size of 128x128 pixels, front view, character has half-shaven gray hair, dark green pants, yellow eyes, white shoes, blue shirt, sprite sequence is centered, with the solid azure background."}
+{"file_name": "images/1.png", "text": "Sprite animation showing a man with skin of dark-orange color that is casting a spell, composed of 7 slightly different frames, each frame has size of 146x146 pixels, front view, character has short green hair, red shorts, yellow eyes, brown shoes, blue shirt, sprite sequence is centered, with the solid silver background."}
+{"file_name": "images/2.png", "text": "Sprite animation showing a man with skin of reddish-orange color that is falling, composed of 6 slightly different frames, each frame has size of 170x170 pixels, front view, character has short red hair, leather sash, green eyes, yellow shoes, white shirt, sprite sequence is centered, with the solid yellow background."}
+{"file_name": "images/3.png", "text": "Sprite animation showing a man with brown skin that is waving his arms, composed of 13 slightly different frames, each frame has size of 78x78 pixels, back view, character has half-shaven gray hair, leather pants, black eyes, white shoes, leather armor, sprite sequence is centered, with the solid gray background."}
+{"file_name": "images/4.png", "text": "Sprite animation showing a man with skin of teal-blue color that is slashing, composed of 6 slightly different frames, each frame has size of 170x170 pixels, left-side view, character has short red hair, dark green pants, yellow eyes, barefoot, shirtless, sprite sequence is centered, with the solid gray background."}
