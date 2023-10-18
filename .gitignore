@@ -1,2 +1,3 @@
-frames/**
+frames/*
+data/images/*
 .DS_STORE
