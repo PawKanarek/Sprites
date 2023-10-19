@@ -22,7 +22,7 @@ def gen_char(body, bottom, top, hair):
 
     # then merge all!
     f = Image.new('RGBA', img_list[0].size, 'black')
-    for i in xrange(len(img_list)):
+    for i in range(len(img_list)):
         f = Image.alpha_composite(f, img_list[i].convert('RGBA'))
 
     # save image
@@ -33,25 +33,25 @@ def gen_char(body, bottom, top, hair):
     # crop to 64 * 64
     width = 64; height = 64
     imgwidth, imgheight = img.size
-    N_width = imgwidth / width
-    N_height = imgheight / height
+    N_width = (imgwidth / width).__floor__()
+    N_height = (imgheight / height).__floor__()
     path = 'frames/'
     if not os.path.exists(path):
         os.makedirs(path)
 
     N_total = 273   # 273 png files in total
     actions = {
-    'spellcard': {'back': range(0, 7), 'left': range(13, 20),
-                  'front': range(26, 33), 'right': range(39, 46)},
-    'thrust': {'back': range(52, 60), 'left': range(65, 73),
-               'front': range(78, 86), 'right': range(91, 99)},
-    'walk': {'back': range(104, 113), 'left': range(117, 126),
-             'front': range(130, 139), 'right': range(143, 152)},
-    'slash': {'back': range(156, 162), 'left': range(169, 175),
-              'front': range(182, 188), 'right': range(195, 201)},
-    'shoot': {'back': range(208, 221), 'left': range(221, 234),
-              'front': range(234, 247), 'right': range(247, 260)},
-    'hurt': {'front': range(260, 266)}
+    'spellcard': {'back': list(range(0, 7)), 'left': list(range(13, 20)),
+                  'front': list(range(26, 33)), 'right': list(range(39, 46))},
+    'thrust': {'back': list(range(52, 60)), 'left': list(range(65, 73)),
+               'front': list(range(78, 86)), 'right': list(range(91, 99))},
+    'walk': {'back': list(range(104, 113)), 'left': list(range(117, 126)),
+             'front': list(range(130, 139)), 'right': list(range(143, 152))},
+    'slash': {'back': list(range(156, 162)), 'left': list(range(169, 175)),
+              'front': list(range(182, 188)), 'right': list(range(195, 201))},
+    'shoot': {'back': list(range(208, 221)), 'left': list(range(221, 234)),
+              'front': list(range(234, 247)), 'right': list(range(247, 260))},
+    'hurt': {'front': list(range(260, 266))}
     }
     duration = 0.1
     copy_path = 'frames/'
@@ -61,8 +61,8 @@ def gen_char(body, bottom, top, hair):
         if not os.path.exists(path+act+'/'):
             os.makedirs(path+act+'/')
 
-    for j in xrange(N_height):
-        for i in xrange(N_width):
+    for j in range(N_height):
+        for i in range(N_width):
             ind = j * N_width + i
 
             # for spellcard
@@ -172,7 +172,7 @@ def gen_char(body, bottom, top, hair):
 
 if __name__ == '__main__':
     n_class = 6
-    seed_list = seed_list = range(0, n_class**4)
+    seed_list = seed_list = list(range(0, n_class**4))
     for seed in seed_list:
         body = int(seed / n_class**3)
         seed = int(np.mod(seed, n_class**3))
@@ -183,5 +183,5 @@ if __name__ == '__main__':
 
         gen_char(body, bottom, top, hair)
         if (seed+1) % 100 == 0:
-            print 'generate %d/%d sequences' % (seed+1, n_class**4)
+            print('generate %d/%d sequences' % (seed+1, n_class**4))
 
